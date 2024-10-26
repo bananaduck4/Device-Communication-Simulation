@@ -1,4 +1,4 @@
-# Device-Communication-Simulation
+#ICS 33: Device-Communication-Simulation
 Simulation of how device would communicate with one another on the Internet
 
 Our simulation model is based around a few concepts.
